@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid black;
+    
+    
+    padding: 25px;
+    margin: 50px;
+
+}

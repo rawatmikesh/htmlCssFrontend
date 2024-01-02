@@ -1,0 +1,42 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+
+#navbar {
+    background-color: black;
+    height: 60px;
+}
+
+button {
+    color: rgb(255, 81, 0);
+}
+
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 150px;
+    text-decoration: none;
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+
+
+
+}
+#content{
+    height: 450px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
